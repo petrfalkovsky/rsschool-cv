@@ -20,7 +20,7 @@ Product manager with 3 years of experience in B2C software development, and more
 * *C#*
 * *.Net*
 #### *Code Example:*
-My solution to [Where is my parent!?(cry)](https://www.codewars.com/kata/58539230879867a8cd00011c) from codewars.com.
+My solutions to [codewars.com](https://www.codewars.com/users/rsschool_d24c5fe0252a74ae/completed).
 ```
 function generateSomeCvCode(/* skills */) {
   throw new Error('Not implemented');
