@@ -1,12 +1,14 @@
 # **Peter Terentev**
 *******************
 #### *Contacts:*
-* *Location*: Belarus, Brest
+* *Location*: Kazakhstan, Almaty, but so badly I want to move to Austin, USA =)
 * *e-mail*: petrterentev.dev@gmail.com
 * *GitHub*: [petrfalkovsky](https://github.com/petrfalkovsky)
 * *Telegram*: [poteryal_trusy](https://t.me/poteryal_trusy)
 #### *About me:*
-Product manager with 3 years of experience in B2C software development, and more than 7 years in technology, in general: launched a network of Made for Adsense sites for generating SEO leads in an affiliate program at LeadsLeader.ru over 700 leads in 3 months. Started 2 startups from scratch: Hedgehog in Socks and Ninja Master from elaborating ideas and testing market hypotheses to writing terms of reference, attracting developers to the project and leading a team of 3 people.
+Flutter and Frontend developer. I love making cool visual stuff and refactoring my old code.
+In development I like to see results, create beautiful, user-friendly ui.
+Creating new products inspires me. During my internship at ENVX I worked in a team of 5 people in the roles of tester and flutter-trainee. I gained experience in code review, learned how to work on features in one repository in a project. In my spare time I run an Instagram blog, play chess, basketball and soccer, skateboard, and spend time with my loved ones. And of course with my cats!
 #### *Skills (Basics):*
 * *JavaScript*
 * *HTML*
@@ -17,9 +19,14 @@ Product manager with 3 years of experience in B2C software development, and more
 * *NodeJS*
 * *Flutter*
 * *Dart*
+#### *Familiar with the:*
 * *C#*
 * *.Net*
 #### *Code Example:*
+My project for the flutter community, analogous to the assignment from the RSS course for [Dart]:(https://github.com/petrfalkovsky/Core-Dart-101).
+
+While I was learning JavaScript/Front-end 2022Q3, I got a job at Athena Plus and did my first project for a [9Global customer](https://github.com/petrfalkovsky/9-Global), later refactoring it using the BEM methodology
+
 My solutions to [codewars.com](https://www.codewars.com/users/rsschool_d24c5fe0252a74ae/completed).
 ```
 function generateSomeCvCode(/* skills */) {
@@ -34,8 +41,8 @@ function generateSomeCvCode(/* skills */) {
 * *Education*:
   * Bachelor's degree in organization of competitions in sports (USUPC)
 * *Courses*:
-  * JS / FRONT-END. STAGE 0 (RS School) (in progress)
-  * JS / FRONT-END. STAGE 1 (RS School) (in progress) 
+  * JS / FRONT-END. STAGE 1 (RS School) 
 
 #### *English:*
+I love practicing English, last year I talked a lot with my friend David, he worked as a scientist and did great research, watching the eye movements of his cute rats every day, but unfortunately now because of the world conflict, we communicate less. I want more practice!
 I have an upper elementary level of english(A1). I studied english throughout my education process in school and univercity and also by myself.
