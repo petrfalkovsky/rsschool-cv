@@ -23,7 +23,7 @@ Creating new products inspires me. During my internship at ENVX I worked in a te
 * *C#*
 * *.Net*
 #### *Code Example:*
-My project for the flutter community, analogous to the assignment from the RSS course for [Dart]:(https://github.com/petrfalkovsky/Core-Dart-101).
+My project for the flutter community, analogous to the assignment from the RSS-course just for [Dart lang:](https://github.com/petrfalkovsky/Core-Dart-101).
 
 While I was learning JavaScript/Front-end 2022Q3, I got a job at Athena Plus and did my first project for a [9Global customer](https://github.com/petrfalkovsky/9-Global), later refactoring it using the BEM methodology
 
@@ -34,14 +34,47 @@ function generateSomeCvCode(/* skills */) {
 }
 ```
 #### *Experience:*
-1. [CV](https://petrfalkovsky.github.io/rsschool-cv/);
-2. [portfolio](http://petrterentev.site/);
+1. Front-end developer intern 01/05/2022 - still currently working
+The Rolling Scopes was founded by epam employees to train strong juniors, while training:
+Learned and confirmed knowledge of the basics of OOP;
+Completed tasks and tests on Asynchronous programming;
+mastered the Webpack setup: https://github.com/petrfalkovsky/webpack;
+Migrated the project from JavaScript to TypeScript;
+mastered NodeJS;
+made an online store in TypeScript in the team;
+prepared a self-presentation in English, video-cv: https://youtu.be/CKLY4KAh7k4
+completed an in-house technical interview on Core JS;
+
+2. Flutter developer junior 01/05/2022 - 01/07/2022
+PA Group (Antipoff Group), for the client of Laskino Park Residential Complex
+In a tight deadline of 1.5 months the team of 3 developers wrote and published the application for booking sports fields for the residents of the Laskino Park cottage settlement: https://laskino-park.ru/.
+implemented the Booking and QR-scanner modules, participated in the preparation of the publication of the app to the stores.
+You can download the app for [android](https://play.google.com/store/apps/details?id=com.riverside.app&hl=ru&pli=1) and [ios](https://apps.apple.com/ru/app/%D0%BB%D0%B0%D1%81%D0%BA%D0%B8%D0%BD%D0%BE-%D0%BF%D0%B0%D1%80%D0%BA/id1632050890);
+
+3. Flutter developer trainee 01/07/2021 - 01/02/2022
+Antares.market mobile app, classic with purchases for crypto (ENVX team), outsourced development, St. Petersburg (remotely).
+Created scalable design elements for the User Profile and Add Ads modules;
+Added possibility to edit user's data in Profile module;
+Project is on githab, apk and gif-view: [https://github.com/petrfalkovsky/marketplace_like_avito](https://github.com/petrfalkovsky/marketplace_like_avito)
 
 #### *Education and courses:*
 * *Education*:
   * Bachelor's degree in organization of competitions in sports (USUPC)
 * *Courses*:
-  * JS / FRONT-END. STAGE 1 (RS School) 
+  * JS / FRONT-END. STAGE 1 (RS School)
+* *Performed master classes*:
+Made a game in C# - Two Pilots Cracking a Safe: [look at github](https://github.com/petrfalkovsky/2PilotsTerentev)
+Reproduced and reworked the code of the game "Fly Runs on Freelancer's Table" in Flutter - Yury Petrov, Friflex: [look at github](https://github.com/petrfalkovsky/game)
+- wrote in a tight deadline - one hour, dark theme to light theme switch: [look at github](https://github.com/petrfalkovsky/dark_light_theme)
+Performed freelance order, layout of ui elements for mobile application [Tandem](https://github.com/petrfalkovsky/tandem)
+Wrote a [weather app](https://github.com/petrfalkovsky/weather-app-handle) with three screens, connecting to REST API
+Product Management, 2016 * Udemy, online course
+Customer Development, 2016 * Custdev.me, workshop on rapid interactive hypothesis testing
+Google Tag Manager Fundamentals: verified certification, 2015 * Google Platform
+PHP Developer (basic), 2015 * Codecademy.com, online course
+LazyLoad Dart & Flutter - Evgeny Yelchev, Dart Fundamentals, Flutter Fundamentals, MVVM, bloc, 
+Flutter & Dart - The Complete Guide, 2021 * Udemy, online course
+Computer Science Basics - Vitaly Shulga: hardware, operating systems, data types, algorithms, databases and web
 
 #### *English:*
 I love practicing English, last year I talked a lot with my friend David, he worked as a scientist and did great research, watching the eye movements of his cute rats every day, but unfortunately now because of the world conflict, we communicate less. I want more practice!
