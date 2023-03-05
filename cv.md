@@ -32,11 +32,11 @@ function generateSomeCvCode(/* skills */) {
 }
 ```
 #### *Experience:*
-1. HTML5 Developer **24/01/2023 - still currently working**
+1. HTML5 Developer **24/01/2023 - still currently working.**
 While I was learning JavaScript/Front-end 2022Q3, I got a job at Athena Plus and did my first project for a [9Global customer](https://github.com/petrfalkovsky/9-Global), later refactoring it using the BEM methodology.
 Made three sliders for midasevent.kz and more minor tasks.
 
-2. Front-end Developer intern **01/05/2022 - still currently working**
+2. Front-end Developer intern **01/05/2022 - still currently working.**
 The Rolling Scopes was founded by epam employees to train strong juniors, while training:
 - Learned and confirmed knowledge of the basics of OOP;
 - Completed tasks and tests on Asynchronous programming;
@@ -47,14 +47,13 @@ The Rolling Scopes was founded by epam employees to train strong juniors, while 
 - Prepared a self-presentation in English, [video-cv](https://youtu.be/CKLY4KAh7k4)
 - Completed an in-house technical interview on Core JS;
 
-3. Flutter developer junior **01/05/2022 - 01/07/2022**
+3. Flutter developer junior **01/05/2022 - 01/07/2022.**
 PA Group (Antipoff Group), for the client of Laskino Park Residential Complex
 In a tight deadline of 1.5 months the team of 3 developers wrote and published the application for booking sports fields for the residents of the Laskino Park cottage settlement: https://laskino-park.ru/.
 implemented the Booking and QR-scanner modules, participated in the preparation of the publication of the app to the stores.
 You can download the app for [android](https://play.google.com/store/apps/details?id=com.riverside.app&hl=ru&pli=1) and [ios](https://apps.apple.com/ru/app/%D0%BB%D0%B0%D1%81%D0%BA%D0%B8%D0%BD%D0%BE-%D0%BF%D0%B0%D1%80%D0%BA/id1632050890);
 
-4. Flutter developer trainee **01/07/2021 - 01/02/2022**
-
+4. Flutter developer trainee **01/07/2021 - 01/02/2022.**
 Antares.market mobile app, classic with purchases for crypto (ENVX team), outsourced development, St. Petersburg (remotely).
 Created scalable design elements for the User Profile and Add Ads modules;
 Added possibility to edit user's data in Profile module;
