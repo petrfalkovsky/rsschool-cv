@@ -553,6 +553,7 @@ body {
 }
 .social {
   text-decoration: none !important;
+  color: #6c757d;
 }
 #attribution {
   opacity: 0.5;
@@ -1039,4 +1040,10 @@ body {
 }
 .font-size-sm {
   font-size: 0.875rem;
+}
+
+.animated {
+  visibility: visible;
+  animation-delay: 0.15s;
+  animation-name: fadeIn;
 }
