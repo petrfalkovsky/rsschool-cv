@@ -1,439 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-
-    <title>Peter Terentev</title>
-    <link
-      rel="shortcut icon"
-      type="image/x-icon"
-      href="/assets/icons/favicon.ico"
-   >
-
-    <!-- Font Awesome CDN -->
-    <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-   >
-
-    <!-- Bootstrap CSS CDN -->
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-   >
-
-    <!-- Animate CSS CDN -->
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css"
-      type="text/css"
-   >
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="/style.css" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="assets/favicon.ico">
+    <title>Peter's Terentev CV</title>
   </head>
-
-  <body class="d-flex flex-column h-100">
-    <main class="flex-shrink-0 container mt-5">
-      <nav class="navbar navbar-expand-lg navbar-light">
-        <a class="navbar-brand" href="/">
-          <h5><b>Peter Terentev</b></h5>
-        </a>
-        <!-- Navbar -->
-        <button
-          class="navbar-toggler"
-          type="button"
-          data-toggle="collapse"
-          data-target="#navbarNavAltMarkup"
-          aria-controls="navbarNavAltMarkup"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-          <div class="navbar-nav ml-auto">
-            <a class="nav-item nav-link active" href="projects.html">
-              Projects
-            </a>
-            <a class="nav-item nav-link" href="about.html">About</a>
-            <a class="nav-item nav-link" href="print.html">Print CV</a>
-          </div>
-        </div>
-      </nav>
-
-      <div class="card-columns m-3 mt-5">
-        <!-- Local Projects -->
-        <div
-          class="wow fadeIn animated"
-          data-wow-delay=".15s"
-          style="
-            visibility: visible;
-            animation-delay: 0.15s;
-            animation-name: fadeIn;
-          "
-        >
-          <a href="https://github.com/" class="project card text-dark">
-            <div class="card-body">
-              <h5 id="dapp-name" class="card-title">Project</h5>
-              <p id="dapp-desc" class="card-text">Description of project</p>
-              <p id="dapp-tools" class="card-text">
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  Typescript
-                </span>
-              </p>
-            </div>
-          </a>
-        </div>
-
-        <div
-          class="wow fadeIn animated"
-          data-wow-delay=".15s"
-          style="
-            visibility: visible;
-            animation-delay: 0.15s;
-            animation-name: fadeIn;
-          "
-        >
-          <a href="https://github.com/" class="project card text-dark">
-            <div class="card-body">
-              <h5 id="fernarzt-name" class="card-title">Project</h5>
-              <p id="fernarzt-desc" class="card-text">Description of project</p>
-              <p id="fernarzt-tools" class="card-text">
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  Typescript
-                </span>
-
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  CMS
-                </span>
-              </p>
-            </div>
-          </a>
-        </div>
-
-        <div
-          class="wow fadeIn animated"
-          data-wow-delay=".15s"
-          style="
-            visibility: visible;
-            animation-delay: 0.15s;
-            animation-name: fadeIn;
-          "
-        >
-          <a href="https://github.com/" class="project card text-dark">
-            <div class="card-body">
-              <h5 id="search-for-quiz-name" class="card-title">
-                Search for Quiz
-              </h5>
-              <p id="search-for-quiz-desc" class="card-text">
-                Description of project
-              </p>
-              <p id="search-for-quiz-tools" class="card-text">
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  Angular
-                </span>
-              </p>
-            </div>
-          </a>
-        </div>
-
-        <div
-          class="wow fadeIn animated"
-          data-wow-delay=".15s"
-          style="
-            visibility: visible;
-            animation-delay: 0.15s;
-            animation-name: fadeIn;
-          "
-        >
-          <a href="https://github.com/" class="project card text-dark">
-            <div class="card-body">
-              <h5 id="notes-app-name" class="card-title">Project App</h5>
-              <p id="notes-app-desc" class="card-text">
-                Description of project
-              </p>
-              <p id="notes-app-tools" class="card-text">
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  Typescript
-                </span>
-              </p>
-            </div>
-          </a>
-        </div>
-
-        <div
-          class="wow fadeIn animated"
-          data-wow-delay=".15s"
-          style="
-            visibility: visible;
-            animation-delay: 0.15s;
-            animation-name: fadeIn;
-          "
-        >
-          <a href="https://github.com/" class="project card text-dark">
-            <div class="card-body">
-              <h5 id="reset-password-app-name" class="card-title">
-                Reset Password App
-              </h5>
-              <p id="reset-password-app-desc" class="card-text">
-                Description of project
-              </p>
-              <p id="reset-password-app-tools" class="card-text">
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  Typescript
-                </span>
-
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  React
-                </span>
-              </p>
-            </div>
-          </a>
-        </div>
-
-        <div
-          class="wow fadeIn animated"
-          data-wow-delay=".15s"
-          style="
-            visibility: visible;
-            animation-delay: 0.15s;
-            animation-name: fadeIn;
-          "
-        >
-          <a href="https://github.com/" class="project card text-dark">
-            <div class="card-body">
-              <h5 id="multi-steps-form-name" class="card-title">Project</h5>
-              <p id="multi-steps-form-desc" class="card-text">
-                Description of project
-              </p>
-              <p id="multi-steps-form-tools" class="card-text">
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  Typescript
-                </span>
-
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  React
-                </span>
-
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  Mui
-                </span>
-              </p>
-            </div>
-          </a>
-        </div>
-
-        <div
-          class="wow fadeIn animated"
-          data-wow-delay=".15s"
-          style="
-            visibility: visible;
-            animation-delay: 0.15s;
-            animation-name: fadeIn;
-          "
-        >
-          <a href="https://github.com/" class="project card text-dark">
-            <div class="card-body">
-              <h5 id="landing-page-name" class="card-title">
-                Landing page Project
-              </h5>
-              <p id="landing-page-desc" class="card-text">
-                Description of project
-              </p>
-              <p id="landing-page-tools" class="card-text">
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  Typescript
-                </span>
-
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  React
-                </span>
-
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  TailwindCSS
-                </span>
-              </p>
-            </div>
-          </a>
-        </div>
-
-        <div
-          class="wow fadeIn animated"
-          data-wow-delay=".15s"
-          style="
-            visibility: visible;
-            animation-delay: 0.15s;
-            animation-name: fadeIn;
-          "
-        >
-          <a href="https://github.com/" class="project card text-dark">
-            <div class="card-body">
-              <h5 id="multi-project-web-app-name" class="card-title">
-                Project
-              </h5>
-              <p id="multi-project-web-app-desc" class="card-text">
-                Description of project
-              </p>
-              <p id="multi-project-web-app-tools" class="card-text">
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  Typescript
-                </span>
-
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  React
-                </span>
-
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  Sass
-                </span>
-              </p>
-            </div>
-          </a>
-        </div>
-
-        <div
-          class="wow fadeIn animated"
-          data-wow-delay=".15s"
-          style="
-            visibility: visible;
-            animation-delay: 0.15s;
-            animation-name: fadeIn;
-          "
-        >
-          <a href="https://github.com/" class="project card text-dark">
-            <div class="card-body">
-              <h5 id="weather-app-name" class="card-title">
-                Weather App Project
-              </h5>
-              <p id="weather-app-desc" class="card-text">
-                Description of project
-              </p>
-              <p id="weather-app-tools" class="card-text">
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  Dart
-                </span>
-
-                <span
-                  class="badge badge-pill text-primary border border-primary"
-                >
-                  Flutter
-                </span>
-              </p>
-            </div>
-          </a>
-        </div>
-      </div>
+  <body>
+    <header>
+      <h1>Peter Terentev</h1>
+    </header>
+    <main>
+      <h2>About me:</h2>
+      <p>
+        Flutter and Frontend developer. I love making cool visual stuff and
+        refactoring my old code. In development I like to see results, create
+        beautiful, user-friendly ui. Creating new products inspires me. During
+        my internship at ENVX I worked in a team of 5 people in the roles of
+        tester and flutter-trainee. I gained experience in code review, learned
+        how to work on features in one repository in a project. In my spare time
+        I run an Instagram blog, play chess, basketball and soccer, skateboard,
+        and spend time with my loved ones. And of course with my cats!
+      </p>
     </main>
+    <footer>
+      <p class="copyright">
+        © 2020-<span id="year">2023</span>
+        <strong>Все права будут защищены петей =)</strong>.
+      </p>
+      <script>
+        function copyright() {
+          "use strict";
 
-    <footer class="mt-auto py-3 text-center">
-      <div class="font-size-lg">
-        <div class="container-fluid justify-content-center">
-          <a
-            class="social mx-1"
-            href="https://www.github.com/petrfalkovsky"
-            style="color: #6c757d"
-            onmouseover="this.style.color='#333333'"
-            onmouseout="this.style.color='#6c757d'"
-          >
-            <i class="fab fa-github fa-1x"></i>
-          </a>
-          <a
-            class="social mx-1"
-            href="https://medium.com/@petrterentev.dev"
-            style="color: #6c757d"
-            onmouseover="this.style.color='#00ab6c'"
-            onmouseout="this.style.color='#6c757d'"
-          >
-            <i class="fab fa-medium fa-1x"></i>
-          </a>
-          <a
-            class="social mx-1"
-            href="https://stackoverflow.com/u/20580119"
-            style="color: #6c757d"
-            onmouseover="this.style.color='#f48024'"
-            onmouseout="this.style.color='#6c757d'"
-          >
-            <i class="fab fa-stack-overflow fa-1x"></i>
-          </a>
-          <a
-            class="social mx-1"
-            href="https://www.linkedin.com/in/poteryal-trusy/"
-            style="color: #6c757d"
-            onmouseover="this.style.color='#1da1f2'"
-            onmouseout="this.style.color='#6c757d'"
-          >
-            <i class="fab fa-linkedin-in fa-1x"></i>
-          </a>
-        </div>
+          const year = new Date().getUTCFullYear();
+          document.getElementById("year").innerHTML = year;
+        }
+      </script>
+      <div>
+        <a href="https://github.com/petrfalkovsky">Мой гитхаб</a>
+      </div>
+      <div>
+        <a href="https://rs.school/js/">Rolling Scopes School</a>
       </div>
     </footer>
-
-    <!-- GitHub Buttons -->
-    <script
-      async=""
-      defer=""
-      src="https://buttons.github.io/buttons.js"
-    ></script>
-
-    <!-- jQuery CDN -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
-    <!-- Popper.js CDN -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
-
-    <!-- Bootstrap JS CDN -->
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-
-    <!-- wow.js CDN & Activation -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
-    <script>
-      new WOW().init();
-    </script>
-
-    <!-- Initialize all tooltips -->
-    <script>
-      $(function () {
-        $('[data-toggle="tooltip"]').tooltip();
-      });
-    </script>
   </body>
 </html>
