@@ -1,67 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-
-    <title>Peter Terentev</title>
-    <link
-      rel="shortcut icon"
-      type="image/x-icon"
-      href="/assets/icons/favicon.ico">
-
-    <!-- Font Awesome CDN -->
-    <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
-
-    <!-- Bootstrap CSS CDN -->
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-
-    <!-- Animate CSS CDN -->
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css"
-      type="text/css">
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="/style.css" type="text/css">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="assets/favicon.ico" />
+    <title>Peter's Terentev CV</title>
   </head>
-
-  <body class="d-flex flex-column h-100">
-    <main class="flex-shrink-0 container mt-5">
-      <nav class="navbar navbar-expand-lg navbar-light">
-        <a class="navbar-brand" href="/">
-          <h5><b>Peter Terentev</b></h5>
-        </a>
-        <!-- Navbar -->
-        <button
-          class="navbar-toggler"
-          type="button"
-          data-toggle="collapse"
-          data-target="#navbarNavAltMarkup"
-          aria-controls="navbarNavAltMarkup"
-          aria-expanded="false"
-          aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-          <div class="navbar-nav ml-auto">
-            <a class="nav-item nav-link active" href="projects.html"
-              >Projects</a
-            >
-            <a class="nav-item nav-link" href="about.html">About</a>
-            <a class="nav-item nav-link" href="print.html">Print CV</a>
-          </div>
-        </div>
-      </nav>
-
-
+  <body>
+    <header class="header">
+      <h1>Peter Terentev</h1>
+    </header>
+    <main class="main">
+      <h2>About me:</h2>
+<p>
+  Flutter and Frontend developer. I love making cool visual stuff and refactoring my old code.
+  In development I like to see results, create beautiful, user-friendly ui.
+  Creating new products inspires me. During my internship at ENVX I worked in a team of 5 people in the roles of tester and flutter-trainee. I gained experience in code review, learned how to work on features in one repository in a project. In my spare time I run an Instagram blog, play chess, basketball and soccer, skateboard, and spend time with my loved ones. And of course with my cats!</p>
     </main>
+    <footer class="footer">
+      
+        <p class="copyright">
+          © 2020-<span id="year">2023</span>
+          <strong>Все права будут защищены петей =)</strong>.
+        </p>
+        
+     <script>
+      function copyright() {
+      "use strict";
+    
+      const year = new Date().getUTCFullYear();
+      document.getElementById("year").innerHTML = year;
+    }
+    </script>
+      <div class="div-footer">
+        <a href="https://github.com/petrfalkovsky" class="link-git"
+          >Мой гитхаб</a
+        >
+      </div>
+      <div class="div-footer">
+        <a href="https://rs.school/js/">Rolling Scopes School</a>
+      </div>
+    </footer>
   </body>
 </html>
